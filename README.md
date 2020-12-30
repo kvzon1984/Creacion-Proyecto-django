@@ -1,2 +1,11 @@
 # Creacion-Proyecto-django
-Comando necesarios para crear un proyecto en django
+Comandos necesarios para crear un proyecto en django
+
+en la consola se instala django 
+>pip install django 
+
+abro otra terminal 
+>django-admin startproject <nombre del proyecto>
+
+en la consola de visual se ejecuta este comando:
+>python .\manage.py startapp <nombre>
