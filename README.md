@@ -9,3 +9,9 @@ abro otra terminal
 
 en la consola de visual se ejecuta este comando:
 >python .\manage.py startapp <nombre>
+
+para arrancar el servidor de prueba:
+>python .\manage.py runserver
+control c para detener el servidor
+
+
